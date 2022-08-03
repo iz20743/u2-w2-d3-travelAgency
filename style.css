@@ -1,0 +1,10 @@
+.footer{
+    color: white;
+    background-color:dimgrey;
+    height: 200px;
+    /* justify-items: center; */
+}
+.footer button{
+    color: aliceblue;
+float:right;
+}
